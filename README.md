@@ -1,5 +1,4 @@
 # Interview-Question-Python-Programming
-Q. Programming Problem (Solve using Python)
 
 ## Write a function that accepts a list of integers and prints
 integers along with their frequency sorted in descending order 
